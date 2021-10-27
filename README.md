@@ -1,4 +1,4 @@
-* [E=mc^2](index.html)
+# [E=mc^2](index.html)
 
 * [MathML](https://mdn.io/mathml)
 * [HTML](https://mdn.io/html)
